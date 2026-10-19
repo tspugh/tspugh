@@ -4,6 +4,10 @@ Mathematics master’s student exploring scientific computing, machine learning,
 
 I’m interested in how mathematical models become computational experiments, especially in dynamical systems, molecular science, and probability.
 
+## Active projects
+
+- [Margin AI](https://github.com/tspugh/obsidian-margin-ai) — **Active development** · an experimental Obsidian plugin for PDF and Markdown annotations, document-linked AI conversations, and customizable memory and output styles. Built on PDF++.
+
 ## Selected work
 
 - [Polymer property prediction](https://github.com/tspugh/chem-properties) — experimental graph neural networks and hierarchical reasoning for molecular property prediction.
